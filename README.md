@@ -1,8 +1,9 @@
 # Frontend Mentor - Four card feature section
 
+Please find the link for final version: https://ebetulo.github.io/Frontendmentor.io-Challenges/
+
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
-Please find the link for final version: https://ebetulo.github.io/Frontendmentor.io-Challenges/
 
 ## Welcome! 👋
 
