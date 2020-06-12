@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section
 
-Please find the link for final result: https://ebetulo.github.io/Frontendmentor.io-Challenges/
+Please find the link for final result: https://ebetulo.github.io/Frontendmentor.io-Challenges/Four%20Card%20Feature%20Section%20Using%20CSS%20Grid/
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
